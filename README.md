@@ -3,7 +3,8 @@
 ## Hi there 👋, I'm Girija Shankar Ray!
 - A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
 - Dedicated to lifelong learning and committed to solving real-world problems with innovation and creativity through modern web technologies.
-![GitHub Repos](https://img.shields.io/badge/Repos-4-bluek?style=flat-square)
+
+![GitHub Repos](https://img.shields.io/badge/Repos-5-bluek?style=flat-square)
 
 ---
 
@@ -42,7 +43,7 @@ I'm always expanding my skill set to stay up-to-date with emerging technologies:
 **📊 GitHub Stats:**  
 Here’s a snapshot of my GitHub contributions and most-used programming languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=radical) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Girijaray07&show_icons=true&theme=radical)  
 
 
@@ -56,7 +57,7 @@ Feel free to reach out if you're interested in collaborating or discussing excit
 
 ---
 
-** Visitor Count**
+**Visitor Count:**  
 
 ![Visitor Count](https://profile-counter.glitch.me/maxrohowsky/count.svg)
 
