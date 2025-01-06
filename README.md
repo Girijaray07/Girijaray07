@@ -1,5 +1,4 @@
-<!-- Profile Banner (Optional) -->
-![Profile Banner]((https://github.com/Girijaray07/Girijaray07/blob/main/Github%20Background.png))
+![banner](https://github.com/Girijaray07/Girijaray07/blob/main/Github%20Background.png)
 
 ## Hi there 👋, I'm Girija Shankar Ray!
 - A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
