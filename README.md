@@ -44,6 +44,7 @@ I'm always expanding my skill set to stay up-to-date with emerging technologies:
 Here’s a snapshot of my GitHub contributions and most-used programming languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=radical) 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Girijaray07&show_icons=true&theme=radical)  
 
 
