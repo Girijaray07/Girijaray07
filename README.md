@@ -4,7 +4,7 @@
 - A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
 - Dedicated to lifelong learning and committed to solving real-world problems with innovation and creativity through modern web technologies.
 
-![GitHub Repos](https://img.shields.io/badge/Repos-5-bluek?style=flat-square)
+![GitHub Repos](https://img.shields.io/badge/Repos-7-bluek?style=flat-square)
 
 ---
 
