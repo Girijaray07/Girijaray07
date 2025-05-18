@@ -36,7 +36,7 @@
 **📊 GitHub Stats:**  
 Here’s a snapshot of my GitHub contributions and most-used programming languages:
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=Girijaray07&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Girijaray07&show=prs_merged_percentage&theme=gruvbox&show_owner=true" alt="GitHub Stats" />
