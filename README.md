@@ -1,6 +1,38 @@
+<style>
+  .wave-hand {
+    display: inline-block;
+    animation-name: wave;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+  }
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    15% { transform: rotate(15deg); }
+    30% { transform: rotate(-10deg); }
+    45% { transform: rotate(15deg); }
+    60% { transform: rotate(-10deg); }
+    75% { transform: rotate(15deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  .lang-image:hover {
+    transform: scale(1.2);
+    transition: transform 0.3s ease;
+  }
+</style>
+
 ![banner](./assets/Github%20Background.png)
 
-## Hi there 👋, I'm Girija Shankar Ray!
+<div align="center">
+    <h1>Hi there 
+        <span class="wave-hand">👋</span>
+        <br>
+        <a href="https://github.com/Girijaray07">
+            I'm Girija Shankar Ray!
+        </a>
+    </h1>
+</div>
 
 -   A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
 -   Dedicated to lifelong learning and committed to solving real-world problems with innovation and creativity through modern web technologies.
@@ -9,10 +41,25 @@
 
 **👨‍💻 Languages:**
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+<div class="lang-container">
+    <a href="https://img.shields.io/badge/-Python-000?&logo=Python">
+    <img class="lang-img" src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python">
+  </a> &nbsp;
+  <a href="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript">
+    <img class="lang-img" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="https://img.shields.io/badge/-C-000?&logo=C">
+    <img class="lang-img" src="https://img.shields.io/badge/-C-000?&logo=C" alt="C">
+  </a> &nbsp;
+  <a href="https://img.shields.io/badge/-SQL-000?&logo=MySQL">
+    <img class="lang-img" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" alt="SQL">
+  </a> &nbsp;
+</div>
+
+<!-- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL) -->
 
 ---
 
