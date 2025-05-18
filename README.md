@@ -36,7 +36,9 @@
 Here’s a snapshot of my GitHub contributions and most-used programming languages:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Girijaray07&theme=gruvbox&hide_border=false)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Girijaray07&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=gruvbox&show_owner=false)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Girijaray07&show=prs_merged_percentage&theme=gruvbox&show_owner=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=gruvbox)
 
 
