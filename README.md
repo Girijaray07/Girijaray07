@@ -44,7 +44,7 @@ Here’s a snapshot of my GitHub contributions and most-used programming languag
 
 **🌐 Connect with me:**  
 Feel free to reach out if you're interested in collaborating or discussing exciting tech topics!  
-![LinkedIn](https://img.shields.io/badge/linkedin-F71A4A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girija-shankar-ray/) 
+![LinkedIn](https://img.shields.io/badge/linkedin-F71A4A?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/girija-shankar-ray/)
 ![GitHub](https://img.shields.io/badge/Github-F71A4A?style=for-the-badge&logo=github)](https://github.com/Girijaray07)
 
 <!-- [Portfolio](https://yourportfolio.com)-->
