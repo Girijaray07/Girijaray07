@@ -1,11 +1,11 @@
 ![banner](./assets/Github%20Background.png)
 
 ## Hi there 👋, I'm Girija Shankar Ray!
-- A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
-- Dedicated to lifelong learning and committed to solving real-world problems with innovation and creativity through modern web technologies.
+
+-   A passionate Web Developer and Software Engineer, specializing in both front-end and back-end development, focused on building efficient, scalable, and user-friendly applications.
+-   Dedicated to lifelong learning and committed to solving real-world problems with innovation and creativity through modern web technologies.
 
 ---
-
 
 **👨‍💻 Languages:**
 
@@ -30,24 +30,25 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Github-F05032?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-F71A4A?style=for-the-badge&logo=markdown&logoColor=white)
+
 ---
 
 **📊 GitHub Stats:**  
 Here’s a snapshot of my GitHub contributions and most-used programming languages:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Girijaray07&theme=gruvbox&hide_border=false)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Girijaray07&show=prs_merged_percentage&theme=gruvbox&show_owner=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=gruvbox)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Girijaray07&theme=gruvbox&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Girijaray07&show=prs_merged_percentage&theme=gruvbox&show_owner=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girijaray07&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
 
 ---
 
 **🌐 Connect with me:**  
 Feel free to reach out if you're interested in collaborating or discussing exciting tech topics!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girija-shankar-ray/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girija-shankar-ray/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Girijaray07)
 
 <!-- [Portfolio](https://yourportfolio.com)-->
-
