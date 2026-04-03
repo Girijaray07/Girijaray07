@@ -4,8 +4,14 @@
     <h1>Hi there 
         <span class="wave-hand">👋</span>
         <br>
+        <img 
+      src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" 
+      height="40" 
+      style="margin-left: -90px;" 
+    />
+        I'm 
         <a href="https://github.com/Girijaray07">
-            I'm Girija Shankar Ray!
+            Girija Shankar Ray!
         </a>
     </h1>
 </div>
