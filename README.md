@@ -60,6 +60,5 @@ Feel free to reach out if you're interested in collaborating or discussing excit
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girija-shankar-ray/) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girijaray64@gmail.com) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Girijaray_7/)
-
-<!-- [Portfolio](https://yourportfolio.com)-->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Girijaray_7/) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white)](https://girijaportfolio.vercel.app/)
