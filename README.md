@@ -64,7 +64,7 @@ Here’s a snapshot of my GitHub contributions and most-used programming languag
 **🌐 Connect with me:**  
 Feel free to reach out if you're interested in collaborating or discussing exciting tech topics!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girija-shankar-ray/) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girija-shankar-ray/?utm_source=girijaray.dev&utm_medium=social&utm_campaign=showcase) &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girijaray64@gmail.com) &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Girijaray_7/) &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white)](https://girijaportfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/u/Girijaray_7/](https://leetcode.com/u/Girijaray_7/?utm_source=girijaray.dev&utm_medium=social&utm_campaign=showcase)) &nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black&color=white)](https://girijaray.dev/?utm_source=github&utm_medium=social&utm_campaign=showcase)
